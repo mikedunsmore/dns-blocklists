@@ -1,4 +1,4 @@
 ||theatlantic.com/zephr/decision-engine
 ||cnn.com/wbdotp/scripttemplates/202601.2.0/otBannerSdk.js
 ||cms.cnn.com
-
+||cnn.com/media/sites/js/bundles
